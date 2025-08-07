@@ -7,6 +7,7 @@ import {
   StyleSheet,
   SafeAreaView,
   Alert,
+  ScrollView,
 } from 'react-native';
 import { ThemeContext } from '@/context/ThemeContext';
 import { Camera, CreditCard as Edit2, LogOut } from 'lucide-react-native';
